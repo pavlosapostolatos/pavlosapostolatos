@@ -1,15 +1,11 @@
 ### Hi there, I'm Paul
- <!-- - aka [codeSTACKr][website] 👋 -->
-<!-- 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr) -->
+<!-- Note https://github.com/Ileriayo/markdown-badges -->
 
 ## I'm a Student, Developer,Investor Nerd,and Dog lover!!
 
-- 🎓 I’m currently pursuing a Bachelor's Degree in Computer Science at Department of Informatics and Telecommunications, NKUA, undergoing my 4-th undergraduate year of studies
+- 🎓 I’m a recent Computer Science Graduate at Department of Informatics and Telecommunications, NKUA
 - 🌱 I’m currently learning Deep Learning Data Science and Web Developing
-- 👯 I’m looking to complete my degree that publish my projects
-- 🥅 2021 Goals: Contribute more to diverse projects
+- 🥅 2023 Goals: Get informed and learn cutting edge tech stacks 
 * ℹ Other Interests:
   * 🐕 Dog walking
   * 🎮 Video Games
@@ -23,7 +19,7 @@
 
 <br />
 
-### Languages and Tools:
+### Languages and Tools: <!-- Note https://github.com/Ileriayo/markdown-badges -->
 <img align="left" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
 <img align="left" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
 <img align="left" alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
@@ -35,8 +31,11 @@
 <img align="left" alt="Node.js"   src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 <img align="left" alt="Express"   src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" />
 <img align="left" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=whit" />
+<img align="left" alt="Hive" src="https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black" />
 <img align="left" alt="MatLab" src="https://img.shields.io/badge/MatLab-C86218?style=for-the-badge" />
 <img align="left" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img align="left" alt="kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
+<img align="left" alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
 <img align="left" alt="Bash" src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 <img align="left" alt="Linux" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 <img align="left" alt="Git" width="26px"  src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
